@@ -58,6 +58,10 @@ java Problem24
 echo
 echo Problem 25
 java Problem25
+echo Problem 30
+cd ..
+python Problem30.py
+cd bin
 echo
 echo Problem 48
 java Problem48
