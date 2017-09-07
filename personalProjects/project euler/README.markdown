@@ -24,6 +24,7 @@ The problem numbers included in this project are:
   * 22
   * 24
   * 25
+  * 30
   * 48
 
 ---
