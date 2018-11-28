@@ -29,6 +29,7 @@
 ## Plugin-specific files:
 
 # IntelliJ
+*/.idea/*
 /out/
 
 # mpeltonen/sbt-idea plugin
